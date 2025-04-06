@@ -1,16 +1,16 @@
-## Hi there 👋
+# 👋 Merhaba, Ben Saim Efe Omağ
 
-<!--
-**Efe774/Efe774** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Frontend geliştirme alanında kendimi geliştiriyorum. Aşağıdaki teknolojilere hakimim:
 
-Here are some ideas to get you started:
+- 💻 JavaScript
+- 🎨 CSS
+- ⚛️ React (JSX)
+- 🌐 HTML
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔗 Bağlantılarım
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/saim-efe-omağ/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
